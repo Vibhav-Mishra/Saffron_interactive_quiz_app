@@ -1,7 +1,7 @@
-<b>Quiz Application
+<b>Quiz Application </b>
 This project is a responsive quiz application built with React and SCSS. It displays a series of multiple-choice questions, tracks the user's score, and provides feedback on completion. The project is designed to be mobile-friendly and features an elegant, minimalist design inspired by modern UI principles.
 
-<b>Features
+<b>Features </b>
 <ol>
 <li>Multiple-choice questions: Dynamically rendered from a JSON file.</li>
 <li>Score tracking: Keeps track of the user's correct answers.</li>
