@@ -9,3 +9,11 @@ This project is a responsive quiz application built with React and SCSS. It disp
 <li>Elegant UI: Designed with modern UI/UX principles in mind.</li>
 <li>SCSS Styling: Uses SCSS for modular and maintainable styling.</li>
 </ol>
+
+<p style="color: red
+">Live link -: https://saffron-interactive-quiz-app.vercel.app</p>
+
+This is how it looks like -:
+On completion of the quiz you will get your score result
+
+![Screenshot (16)](https://github.com/user-attachments/assets/d60b9449-2656-491a-9c85-c5fe0bc7be7c)
